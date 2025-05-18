@@ -1181,6 +1181,9 @@ blockquote {
 .grid {
   display: grid !important;
 }
+.hidden {
+  display: none !important;
+}
 .h-full {
   height: 100% !important;
 }
